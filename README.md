@@ -1,5 +1,9 @@
 # stampup-v1
 
+# appium start
+cd /Users/bogalaxminarayana/stampup/stampup-v1
+npx appium --log-level info --allow-cors
+
 ## Installing the Latest APK
 
 Testers usually receive the signed APK directly. Follow these steps to install it on an Android emulator and launch the app.
